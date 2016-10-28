@@ -1,0 +1,14 @@
+{
+    "compilerOptions": {
+        "module":"umd",
+        "sourceMap": true,
+        "noEmitOnError": true,
+        "types": [
+            "glob"
+        ]
+    },
+    "exclude": [
+        "node_modules/",
+        "typings/"
+    ]
+}
