@@ -1,7 +1,7 @@
 {
-  "name": "movies",
+  "name": "boilerplate",
   "version": "1.0.0",
-  "description": "A MovieInfo service.",
+  "description": "A ode-TypeScript-Gulp-VsCode-Boilerplate project",
   "main": "app.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
