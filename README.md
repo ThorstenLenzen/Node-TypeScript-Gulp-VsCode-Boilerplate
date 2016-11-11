@@ -77,3 +77,11 @@ set to 'es6'.
 }
 ```
 
+## VsCode Suppport
+VsCode is configured to support the development. 
+Following features are configured.
+
+* Debugging the application.
+* Attach debugger to running node application.
+* Run transpile Gulp task within VsCode.
+* created .js files and sourcemaps are not visible in VsCode.
